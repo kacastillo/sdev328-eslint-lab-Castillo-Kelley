@@ -3,7 +3,12 @@
   "description": "A lab to showcase how linters work.",
   "type": "module",
   "homepage": "",
-  "dependencies": {
-    "eslint": "^9.39.2"
+  "script": {
+    "lint": "eslint ."
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.2.0",
+    "globals": "^17.4.0"
   }
 }
