@@ -1,0 +1,9 @@
+{
+  "name": "eslint-lab",
+  "description": "A lab to showcase how linters work.",
+  "type": "module",
+  "homepage": "",
+  "dependencies": {
+    "eslint": "^9.39.2"
+  }
+}
